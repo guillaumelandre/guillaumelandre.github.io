@@ -56,13 +56,14 @@ title: Home
 			</div>
 			<div class="6u 12u(narrower)">
 		<section class=" special">
-		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2702.4885203704953!2d1.7541413157425791!3d49.067749979308594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6ea806e2a5d49%3A0x92998ae9b38e1d48!2sDomaine+de+Brunel!5e1!3m2!1sfr!2sfr!4v1480863371138" width="780" height="585" frameborder="0" style="border:0" allowfullscreen></iframe>
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2702.4885203704953!2d1.7541413157425791!3d49.067749979308594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6ea806e2a5d49%3A0x92998ae9b38e1d48!2sDomaine+de+Brunel!5e1!3m2!1sfr!2sfr!4v1480863371138" width="100%" height="585" frameborder="0" style="border:0" allowfullscreen></iframe>
 		</section>
 
 	</div>
 </div>
 </section>
 
+<!--
 <div class="row">
 	<div class="6u 12u(narrower)">
 
@@ -89,7 +90,7 @@ title: Home
 
 	</div>
 </div>
-
+-->
 <div class="row">
 	<div class="12u 12u(narrower)">
 
@@ -104,7 +105,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/yfk-JIwSlRM" frameborder="0" allowfullscreen></iframe>
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/yfk-JIwSlRM" frameborder="0" allowfullscreen></iframe>
 
 		</section>
 
@@ -112,7 +113,7 @@ title: Home
 	<div class="6u 12u(narrower)">
 
 		<section class="box special">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/6CP8FVlxy3A" frameborder="0" allowfullscreen></iframe>
+			<iframe width="100%" height="315" src="https://www.youtube.com/embed/6CP8FVlxy3A" frameborder="0" allowfullscreen></iframe>
 
 		</section>
 
