@@ -1,0 +1,40 @@
+<div id="page-wrapper">
+
+<!-- Header
+<header id="header" {% if page.url == "/index.html" %} class="alt"{% endif %}>
+	<h1><a href="index.html">Alpha</a> by HTML5 UP</h1>
+	{% include menu.html %}
+</header>-->
+
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.countdown.min.js"></script>
+
+{% if page.layout == "default" %}
+<!-- Banner -->
+<section id="banner">
+	<h2>{{ site.title }}</h2>
+	<h2>26 Mai 2017</h2>
+	<h3><div id="getting-started"></div></h3>
+
+<script type="text/javascript">
+  $("#getting-started")
+  .countdown("2017/05/26", function(event) {
+    $(this).text(
+      event.strftime('dans %-m mois, %-n jour%!D, %-H heure%!H, %-M minute%!N et %-S seconde%!S !')
+    );
+  });
+</script>
+	<ul class="actions">
+		<li><img alt="Photo" class="img-circle" src="assets/images/couple2.jpg"></li>
+		<!--<li><img alt="Photo" class="img-circle" src="images/test.jpg"></li>-->
+	</ul>
+</section>
+{% else %}
+<!-- Main -->
+<section id="main" class="container">
+	<header>
+		<h2>{{ page.title }}</h2>
+		<p>{{ page.description }}</p>
+	</header>
+{% endif %}
+<div class="box">
