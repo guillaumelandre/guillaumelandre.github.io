@@ -10,7 +10,7 @@ title: Volatiana & Guillaume
 email: guillaume.landre@gmail.com
 description: Volatiana & Guillaume
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://guillaumelandre.github.io" # the base hostname & protocol for your site
+url: "http://www.lovewillsavetheday.org" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url:
