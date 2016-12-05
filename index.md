@@ -7,7 +7,7 @@ title: Home
 	<header class="major">
 		<h2>Un mariage à la campagne
 		</h2>
-		<p>Un an et demi après un passage discret en mairie, nous souhaitons nous dire <em><b>Oui</b></em><br>devant les personnes les plus importantes de nos vies... vous !<br><br>Petit mode d'emploi de cette journée :</p>
+		<p>Un an et demi après un passage discret en mairie, nous souhaitons nous dire <em><b>Oui</b></em><br>devant les personnes les plus importantes de nos vies... vous !<br><br>Petit mode d'emploi de cette journée champêtre :</p>
 	</header>
 
 	<!--<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>-->
@@ -18,25 +18,25 @@ title: Home
 	<div class="features-row">
 		<section>
 			<span class="icon major fa-heart accent4"></span>
-			<h3>Qui ? Quoi ? Où ?</h3>
-			<p><i><b>Mais le 26, c'est un vendredi ?</b></i> Oui oui, c'est bien ça. "Thank God It's Friday"<br><br><b><i>Pas de mairie ?</i></b> Eh non, on se retrouve directement au <a href="#plans">Domaine de Brunel</a> à 16 heures pour la cérémonie religieuse.</p>
+			<h3>Thank God It's Friday</h3>
+			<p><i><b>Mais le 26, c'est un vendredi ?</b></i> Oui oui, c'est bien ça.<br><br><b><i>Pas de mairie ?</i></b> Eh non, on se retrouve directement au <a href="#plans">Domaine de Brunel</a> à 16 heures pour la cérémonie religieuse.</p>
 		</section>
 		<section>
 			<span class="icon major fa-suitcase accent3"></span>
 			<h3>Le Dress Code</h3>
-			<p>Le Turquoise, c'est notre truc.<br>Cravatte, pochette, foulard, broche, sac à main ou total-look : arborez un détail de notre couleur favorite</p>
+			<p>Le Turquoise, c'est notre truc.<br>Cravate, pochette, foulard, broche, sac à main ou total-look : arborez un détail de notre couleur favorite</p>
 		</section>
 	</div>
 	<div class="features-row">
 	<section>
 		<span class="icon major fa-hotel accent5"></span>
 		<h3>Le Logement</h3>
-		<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+		<p>Pourquoi reprendre la route tout de suite ? Restez donc danser un peu plus longtemps avec nous et faites dodo dans un hotel ou chambre d'hôte proche. Voir liste <a href="assets/images/LogementsBrunel.pdf" target="_new">ici</a></p>
 	</section>
 		<section>
 			<span class="icon major fa-child accent2"></span>
 			<h3>Et Les Enfants ?</h3>
-			<p>Option Zero Tracas : les enfants restent à la maison pendant que les parents font la fête !</p>
+			<p>Option Zero Prise de Tête : les enfants restent à la maison pendant que les parents font la fête !</p>
 		</section>
 	</div>
 </section>
@@ -95,7 +95,7 @@ title: Home
 	<div class="12u 12u(narrower)">
 
 		<section class="special">
-		<h3>Un peu de musique pour vous entrainer !</h3>
+		<h3>Un peu de musique pour vous entraîner !</h3>
 		</section>
 	</div>
 </div>
