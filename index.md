@@ -31,7 +31,7 @@ title: Home
 	<section>
 		<span class="icon major fa-hotel accent5"></span>
 		<h3>Le Logement</h3>
-		<p>Pourquoi reprendre la route tout de suite ? Restez donc danser un peu plus longtemps avec nous et faites dodo dans un hotel ou chambre d'hôte proche. Voir liste <a href="assets/images/LogementsBrunel.pdf" target="_new">ici</a></p>
+		<p>Pourquoi reprendre la route tout de suite ? Restez donc danser un peu plus longtemps avec nous et faites dodo dans un hotel ou chambre d'hôtes proche. Voir liste <a href="assets/images/LogementsBrunel.pdf" target="_new">ici</a></p>
 	</section>
 		<section>
 			<span class="icon major fa-child accent2"></span>
