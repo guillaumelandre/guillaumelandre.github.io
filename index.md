@@ -34,9 +34,9 @@ title: Home
 		<p>Pourquoi reprendre la route tout de suite ? Restez donc danser un peu plus longtemps avec nous et faites dodo dans un hotel ou chambre d'hôtes proche. Voir liste <a href="assets/images/LogementsBrunel.pdf" target="_new">ici</a></p>
 	</section>
 		<section>
-			<span class="icon major fa-child accent2"></span>
-			<h3>Et Les Enfants ?</h3>
-			<p>Option Zero Prise de Tête : les enfants restent à la maison pendant que les parents font la fête !</p>
+			<span class="icon major fa-gift accent2"></span>
+			<h3>Liste de mariage</h3>
+			<p>Votre présence à notre mariage est le plus beau des cadeaux ! Cependant, nous savons que beaucoup d'entre vous désirent nous faire un petit cadeau. Nous vous proposons de participer à l'aménagement de notre futur appartement. Ca se passe <a href="http://mariagevolatianaetguillaume.zankyou.com/fr" target="_new">ici</a></p>
 		</section>
 	</div>
 </section>
