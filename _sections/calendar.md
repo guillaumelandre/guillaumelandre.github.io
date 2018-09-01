@@ -31,7 +31,7 @@ auto-header: none
     <h2><span class="badge badge-secondary">{{ a_slot.date }}</span></h2>
   </div>
   <div class="col-10">
-    <h3 class="text-uppercase text-left">{{ a_class.name }}</h3>
+    <h3 class="text-left">{{ a_class.name }}</h3>
     <ul class="list-inline text-left">
         <li class="list-inline-item"><i class="fa fa-calendar" aria-hidden="true"></i> {{ a_class.day }}</li>
       <li class="list-inline-item"><i class="fa fa-clock" aria-hidden="true"></i> {{ a_class.timing }}</li>
