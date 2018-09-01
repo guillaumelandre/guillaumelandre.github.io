@@ -40,7 +40,7 @@ siretnumber : 51203587400035
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://guillaumelandre.github.io" # the base hostname & protocol for your site
 
 # Social settings
