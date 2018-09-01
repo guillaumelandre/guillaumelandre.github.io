@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+hide: True
 ---
 
 <section class="box special">

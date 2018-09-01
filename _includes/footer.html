@@ -1,0 +1,14 @@
+<!-- Footer -->
+<div id="footer">
+
+  <!-- Copyright -->
+  <ul class="copyright">
+    {% if site.title or site.author %}
+      <li>&copy; {{- site.title | default: site.author -}}. Siret : {{ site.siretnumber }}</li>
+    {% endif %}
+    <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+    <li>Jekyll integration: <a href="https://chrisbobbe.github.io/">Chris Bobbe</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/PrivacyPolicy.pdf" target="_blank">Politique de Confidentialité</a></li>
+  </ul>
+
+</div>
