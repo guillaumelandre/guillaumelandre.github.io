@@ -1,14 +1,17 @@
 import { title } from "@/components/primitives";
+import {User} from "@nextui-org/user";
 
 export default function AboutPage() {
   return (
     <div>
-      <h1 className={title()}>Présentation</h1>
-      <p>Passionnée de Danse, j&apos;ai été formée à l&apos;Opéra dès mes 8 ans; ce qui m&apos;a menée à New York en 2003 où j&apos;ai intégré plusieurs Écoles et Compagnie de Danse (Broadway Dance Center, Steps in Broadway, Robin Dunn F.A.C.E., Jay T Jenkins).
-
-Le Yoga s&apos;est imposé à moi comme un nouveau mode de Vie, alors que je ne m&apos;épanouissais pas forcément dans l&apos;industrie du Luxe. J&apos;ai débuté par un Yoga Dynamique (puis je me suis formée auprès, entre autres, de Valérie Grammatico). Mon expérience de maman m&apos;a ensuite conduite à découvrir la méthode du Docteur De Gasquet.
-
-Aujourd&apos;hui certifiée en &quot;Sport, Périnée & Maternité&quot;, j&apos;aime ce lien privilégié qui existe entre une mère et son bébé. C&apos;est pourquoi j&apos;ai creusé dans cette voie en me formant d&apos;abord auprès de la sage-femme Anne-Claire Bardet (sage femme de l&apos;APHP - membre de l&apos;Association Française en Massage Bébé), puis en &quot;Relation Mère/enfant - techniques de Massage Maman-bébé&quot; (Institut De Gasquet). Je donne des cours particuliers, dans differents centres de l&apos;ouest parisien ainsi qu&apos;en entreprise (Bouygues Immobilier, BNP Paribas Real Estate, TF1, Hevea association).</p>
-    </div>
+      <User   
+      name="Volatiana Landre"
+      description="Fondatrice & Professeure"
+      avatarProps={{
+        isBordered: true,  src: "bio-picture.png"
+      }}
+    />
+      <p>Volatiana a une histoire unique. Originaire du monde du Luxe, elle a bâti sa carrière en tant que danseuse et professeure de danse. Dès l&apos;âge de 5 ans, elle s&apos;est imprégnée de la rigueur du ballet classique sous la tutelle de Michèle Lebert (@ludivinedoumergue à @rythmeetdanseherblay), à l&apos;Opéra de Paris en 1989 et à New York avec la compagnie JAY-T en 2001. En 2014, elle se spécialise en massage bébé et relation mère-enfant grâce à la formation De Gasquet. Sa propre expérience de maternité renforce son engagement envers le soutien post-partum, complété par une formation en sport, périnée et maternité De Gasquet en 2016. Aujourd&apos;hui, elle relie ses passions pour la danse et le mouvement à travers le yoga prénatal, postnatal, senior et rebozo, offrant un soutien holistique à toutes les étapes de la maternité.</p>
+</div>
   );
 }

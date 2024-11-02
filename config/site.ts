@@ -5,20 +5,16 @@ export const siteConfig = {
   description: "Make beautiful websites regardless of your design experience.",
   navItems: [
     {
-      label: "Home",
+      label: "Accueil",
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Cours",
+      href: "/cours",
     },
     {
-      label: "Pricing",
+      label: "Ateliers & Retraites",
       href: "/pricing",
-    },
-    {
-      label: "Blog",
-      href: "/blog",
     },
     {
       label: "Présentation",
@@ -27,20 +23,16 @@ export const siteConfig = {
   ],
   navMenuItems: [
     {
-      label: "Home",
+      label: "Accueil",
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Cours",
+      href: "/cours",
     },
     {
-      label: "Pricing",
+      label: "Ateliers & Retraites",
       href: "/pricing",
-    },
-    {
-      label: "Blog",
-      href: "/blog",
     },
     {
       label: "Présentation",
@@ -49,9 +41,8 @@ export const siteConfig = {
   ],
   links: {
     instagram : "https://www.instagram.com/infinifemmes",
-    docs: "https://nextui.org",
     email: "mailto:hello@infinifemmes.com",
     facebook: "https://facebook.com/infinifemmes",
-    sponsor: "https://patreon.com/jrgarciadev",
+    yogaforyou: "https://clients.mindbodyonline.com/classic/mainclass?fl=true&tabID=7"
   },
 };
