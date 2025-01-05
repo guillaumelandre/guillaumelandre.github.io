@@ -65,7 +65,7 @@ export default function RecrutementPage() {
                             })}
                             href="mailto:hello@infinifemmes.com"
                         >
-                        Contactez nous
+                        Contactez-nous
                         </Link>
                     </CardBody>
                 </Card>
@@ -84,7 +84,7 @@ export default function RecrutementPage() {
                             })}
                             href="mailto:hello@infinifemmes.com"
                         >
-                        Contactez nous
+                        Contactez-nous
                         </Link>
                     </CardBody>
                 </Card>

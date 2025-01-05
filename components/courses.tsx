@@ -3,8 +3,9 @@
 import { Card, CardHeader, CardBody, CardFooter } from "@nextui-org/card";
 import { Divider } from "@nextui-org/divider";
 import { title } from "@/components/primitives";
-import {Table, TableHeader, TableColumn, TableBody, TableRow, TableCell} from "@nextui-org/table";
 import { siteConfig } from "@/config/site";
+import { Link } from "@nextui-org/link";
+import { button as buttonStyles } from "@nextui-org/theme";
 
 
 export const Courses = () => {
@@ -128,7 +129,20 @@ export const Courses = () => {
           </CardHeader>
           <Divider />
           <CardBody>
-            <p>{siteConfig.courses.retraite}</p>
+            <p>Amandine <a href="https://www.instagram.com/mamzelle.bienetre" target="_new">@Mam&apos;zelle Bien-être</a> et Volatiana <a href="https://www.instagram.com/infinifemmes" target="_new">@Infini Femmes</a> vous proposent une expérience unique en Bourgogne dans la Maison du Bonheur, à Montigny-la-Resle.</p>
+            <p>&nbsp;</p>
+            <p>Cette retraite de trois jours vous plongera dans l&apos;énergie du Printemps et du renouveau à travers un voyage au cœur des 7 chakras. Vous irez explorer des techniques de respiration, d&apos;ancrage et vous jouerez avec le mouvement pour délier les tensions et surtout vous ressourcer loin du tumulte du quotidien. La déconnexion au numérique sera d&apos;ailleurs vivement recommandé,  pour vivre l&apos;expérience pleinement au cœur de la nature et de la douceur printanière.</p>
+            <p>&nbsp;</p>
+            <Link
+                className={buttonStyles({
+                color: "secondary",
+                radius: "sm",
+               variant: "shadow",
+                })}
+                href="/retraite"
+            >
+            Détails
+            </Link>
           </CardBody>
           <Divider />
           <CardFooter>

@@ -22,7 +22,7 @@ Des formations &quot;Yoga, Bien-être et Périnée&quot;©️ sont construites p
 
 <p>En tant qu&apos;Assistant.e Communication Digitale, vous travaillerez en étroite collaboration avec la Fondatrice pour contribuer à l&apos;élaboration de la Communication en ligne.</p>
 
-<p>Vous aurez pour missions :</p>
+<p>&nbsp;</p><p>Vous aurez pour missions :</p>
 
 <p>&nbsp;</p><p><b>AIDE A LA RÉALISATION DU SITE INTERNET</b></p>
 <ul>
@@ -39,10 +39,10 @@ Des formations &quot;Yoga, Bien-être et Périnée&quot;©️ sont construites p
 </ul>
 <p>&nbsp;</p><p><b>PROFIL RECHERCHÉ</b></p>
 <ul>
-<li>▪︎ Etudiant(e) en Communication, Marketing Digital</li>
-<li>▪︎ Passionné(e) par le Digital et les Réseaux Sociaux</li>
+<li>▪︎ Etudiant.e en Communication, Marketing Digital</li>
+<li>▪︎ Passionné.e par le Digital et les Réseaux Sociaux</li>
 <li>▪︎ Excellentes capacités rédactionnelles en français et en anglais</li>
-<li>▪︎ Créatif(ve), autonome et force de proposition</li>
+<li>▪︎ Créatif.ve, autonome et force de proposition</li>
 <li>▪︎ Maîtrise des outils de création graphique (Photoshop, Canada, etc.) et des outils de gestion des réseaux sociaux</li>
 <li>▪︎ Une première expérience dans la gestion de contenu Web ou de réseaux sociaux serait un plus, mais débutant.e accepté.e</li>
 </ul>
@@ -54,7 +54,7 @@ Des formations &quot;Yoga, Bien-être et Périnée&quot;©️ sont construites p
 </ul>
 <p>&nbsp;</p><p><b>COMMENT POSTULER ?</b></p>
 
-<p>Envoyez votre CV et une lettre de motivation à l&apos;adresse suivante hello@infinifemmes.com avec pour objet &quot;Candidature Stage Assistant.e Communication Digitale&quot;</p>
+<p>Envoyez votre CV et une lettre de motivation à l&apos;adresse suivante hello@infinifemmes.com avec pour objet &quot;Candidature Assistant.e Communication Digitale&quot;</p>
 <p>Hâte de découvrir votre profil !</p></div>
 
 
