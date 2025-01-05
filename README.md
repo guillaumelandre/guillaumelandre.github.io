@@ -1,5 +1,5 @@
 
-This is an application using Next.js 14 (app directory) and NextUI (v2)..
+This is an application using Next.js 14 (app directory) and NextUI (v2).
 
 ## Technologies Used
 
