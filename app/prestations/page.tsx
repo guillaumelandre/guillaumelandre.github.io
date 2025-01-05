@@ -2,7 +2,7 @@ import {
   Courses
 } from "@/components/courses";
 
-export default function CoursPage() {
+export default function PrestationsPage() {
   return (
     <Courses/>
   );

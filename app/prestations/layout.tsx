@@ -1,4 +1,4 @@
-export default function DocsLayout({
+export default function PrestationsLayout({
   children,
 }: {
   children: React.ReactNode;
